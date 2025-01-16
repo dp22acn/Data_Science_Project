@@ -34,7 +34,7 @@ This repository is temporarily licensed under the **Creative Commons Attribution
 ## Contact Information
 
 For any inquiries regarding the use of this repository or dataset, please contact:  
-**Email**: [your email]
+**Email**: [devendrapeddoju@gmail.com]
 
 ---
 
