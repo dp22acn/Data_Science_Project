@@ -28,4 +28,17 @@ Central characters like Krishna and Arjuna play pivotal roles in the network and
 The network has an average path length of 2, and a clustering coefficient of 0.35, highlighting tight-knit groups within the larger narrative.
 
 
+## License
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+This dataset is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+- You may view the dataset for personal and academic purposes.
+- Redistribution, modification, or commercial use is not permitted.
+
+For permissions beyond the scope of this license, please contact [devendrapeddoju@gmail.com].
+
+
+
 
