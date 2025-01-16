@@ -6,10 +6,8 @@
 - [Technologies Used](#technologies-used)
 - [Methodology](#methodology)
 - [Project Summary](#project-summary)
-- [Data Preprocessing](#data-preprocessing)
-- [Network Construction](#network-construction)
-- [Analysis](#analysis)
-- [Visualization](#visualization)
+- [Use of Python and Gephi](#Use-of-Python-and-Gephi)
+- [Visualization and Advanced Calculation](#Visualization-and-Advanced-Calculations)
 - [License](#license)
 - [References and API Links](#references-and-api-links)
 
