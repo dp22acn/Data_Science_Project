@@ -133,6 +133,3 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-N
 
 For permissions beyond the scope of this license, please contact [devendrapeddoju@gmail.com].
 
----
-
-This layout organizes the project effectively and makes it easier to navigate through each section.
