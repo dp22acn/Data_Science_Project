@@ -1,4 +1,6 @@
-# Data_Science_Project
+# Data_Science_Project![Screenshot 2025-01-05 184407](https://github.com/user-attachments/assets/518775a1-a853-4b0d-b75c-956f59d435d2)
+
+
 Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA
 
 Project Overview
