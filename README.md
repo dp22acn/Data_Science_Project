@@ -1,6 +1,6 @@
 ## Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA
 
-# Data_Science_Project ![Screenshot 2025-01-05 184407](https://github.com/user-attachments/assets/518775a1-a853-4b0d-b75c-956f59d435d2)
+# A Network Graph Of Mahabharata ![Screenshot 2025-01-05 184407](https://github.com/user-attachments/assets/518775a1-a853-4b0d-b75c-956f59d435d2)
 
 ## Table of Contents
 - [Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA](#project-title-math-and-myth-a-network-approach-to-mahabharata)
