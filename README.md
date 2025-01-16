@@ -1,17 +1,36 @@
+## Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA
+
 # Data_Science_Project ![Screenshot 2025-01-05 184407](https://github.com/user-attachments/assets/518775a1-a853-4b0d-b75c-956f59d435d2)
 
 ## Table of Contents
-- [Project Title](#project-title)
+- [Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA](#project-title-math-and-myth-a-network-approach-to-mahabharata)
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
+- [Data Source](#data-source)
 - [Methodology](#methodology)
+  - [Data Preprocessing](#data-preprocessing)
+  - [Network Construction](#network-construction)
+  - [Analysis](#analysis)
+  - [Visualization](#visualization)
 - [Project Summary](#project-summary)
-- [Use of Python and Gephi](#Use-of-Python-and-Gephi)
-- [Visualization and Advanced Calculation](#Visualization-and-Advanced-Calculations)
-- [License](#license)
+  - [Manual Approach](#manual-approach)
+  - [Automated Approach](#automated-approach)
+- [Use of Python and Gephi for Statistical Calculations and Better Results](#use-of-python-and-gephi-for-statistical-calculations-and-better-results)
+  - [Python in Both Approaches](#python-in-both-approaches)
+    - [Data Extraction](#data-extraction)
+    - [Graph Construction](#graph-construction)
+    - [Statistical Analysis](#statistical-analysis)
+  - [Gephi for Visualization and Advanced Calculations](#gephi-for-visualization-and-advanced-calculations)
+    - [Visualization](#visualization-1)
+    - [Advanced Statistical Calculations](#advanced-statistical-calculations)
+    - [Refining Results](#refining-results)
+- [Comparison with Real-World Networks](#comparison-with-real-world-networks)
+  - [Real-World Social Networks](#real-world-social-networks)
+  - [Mythological Networks](#mythological-networks)
+- [Key Insights](#key-insights)
 - [References and API Links](#references-and-api-links)
+- [License](#license)
 
-## Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA
 
 ### Project Overview
 This project is based on creating a network from text and performing social network analysis on the Mahabharata.
