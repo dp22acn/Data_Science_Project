@@ -1,5 +1,18 @@
 # Data_Science_Project ![Screenshot 2025-01-05 184407](https://github.com/user-attachments/assets/518775a1-a853-4b0d-b75c-956f59d435d2)
 
+## Table of Contents
+- [Project Title](#project-title)
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Methodology](#methodology)
+- [Project Summary](#project-summary)
+- [Data Preprocessing](#data-preprocessing)
+- [Network Construction](#network-construction)
+- [Analysis](#analysis)
+- [Visualization](#visualization)
+- [License](#license)
+- [References and API Links](#references-and-api-links)
+
 ## Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA
 
 ### Project Overview
