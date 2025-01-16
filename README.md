@@ -38,8 +38,8 @@ Python plays a central role in both the manual and automated approaches of this 
 
 Data Extraction:
 
-In the manual approach, Python is used to organize and structure the information manually extracted from the book. Although the data extraction is done by reading the book, Python helps automate some of the processes, such as identifying key words, cleaning text, and storing the extracted data in a format suitable for graph construction.
-In the automated approach, Python is used to apply an NER (Named Entity Recognition) model, which automatically extracts entities (e.g., characters, places, events) and relationships (e.g., interactions, actions) from the raw text of the book.
+In the manual approach, Python is used to organize and structure the information manually extracted from the book. Although the data extraction is done by reading the book, Python helps automate some of the processes, such as identifying keywords, cleaning text, and storing the extracted data in a format suitable for graph construction.
+In the automated approach, Python is used to apply a NER (Named Entity Recognition) model, which automatically extracts entities (e.g., characters, places, events) and relationships (e.g., interactions, actions) from the raw text of the book.
 Graph Construction:
 
 After extracting the necessary data, Python libraries such as NetworkX are used to construct the network from the extracted entities. The relationships between entities are modeled as edges, and the entities themselves are represented as nodes in the graph.
@@ -49,7 +49,7 @@ Ghepi is used to perform various statistical and network metrics calculations. T
 Degree Centrality: Identifying the most connected nodes.
 Clustering Coefficient: Understanding the tendency of nodes to form clusters.
 Path Length: Analyzing the shortest distance between nodes.
-These metrics help in understanding the structure and behavior of the network, leading to better insights.
+These metrics help in understanding the structure and behaviour of the network, leading to better insights.
 
 Gephi is a powerful open-source tool used for visualizing and analyzing large networks. It complements Python by providing an intuitive graphical interface and advanced algorithms for statistical calculations, which allow for deeper insights into the structure of the network.
 
@@ -67,6 +67,32 @@ These statistical calculations, when used in conjunction with Python’s analysi
 Refining Results:
 
 By using Gephi's statistical analysis tools, the results from Python’s calculations are validated and refined. The ability to interact with the network visually and apply various algorithms allows for a better interpretation of the dataset.
+Comparison with Real-World Networks
+After building the networks using both the manual and automated approaches, the next step of the project involves comparing these mythological networks to real-world social networks. This comparison highlights the structural similarities and differences between the two, allowing us to draw meaningful conclusions about how mythological narratives mirror human society in terms of relationships, interactions, and social dynamics.
+
+Steps in the Comparison Process
+Real-World Social Networks:
+Real-world social networks (such as those found on social media platforms, organizational structures, or even biological networks) are complex systems made up of interconnected entities (individuals, organizations, etc.). These networks are often characterized by metrics such as:
+
+Degree Centrality: Identifying key influencers or central figures in the network.
+Clustering Coefficient: Understanding the extent to which individuals form groups or communities.
+Average Path Length: The average distance between individuals in the network, representing communication or relationship closeness.
+Betweenness Centrality: Identifying individuals who act as bridges between different communities.
+The same metrics are applied to the mythological networks to assess their structure.
+
+Mythological Networks:
+The mythological networks constructed in the project represent the relationships and interactions between characters and events within a narrative, such as in the Mahabharata or other mythological texts. These networks exhibit similar properties:
+
+Nodes: Characters, places, or significant events.
+Edges: Interactions, relationships, or influence among nodes.
+Structural Patterns: Communities, cliques, or clusters based on the narrative arcs.
+By applying Python and Gephi, network metrics like degree centrality, clustering coefficient, and path length are computed to understand the mythological network's structure.
+
+By comparing mythological networks to real-world social networks, it becomes evident that mythological narratives often reflect the social dynamics of human societies. Despite their fantastical settings, the relationships, power structures, and social behaviour in these stories mirror the complex interactions that occur in real-world communities.
+
+Network Metrics: The similarity in metrics like clustering, centrality, and path length between the two types of networks highlights the universality of social interaction patterns across time and cultures.
+Cultural Insights: These findings suggest that mythological stories may not only serve as moral or religious narratives but also as representations of how ancient societies viewed relationships, power, and social structures.
+Thus, the project shows that mythological networks are not only an artistic and literary tool but also an insightful way to study the social structures of past societies, offering a bridge between fiction and reality.
 
 
 
