@@ -175,10 +175,42 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-N
 - You may view the dataset for personal and academic purposes.
 - Redistribution, modification, or commercial use is not permitted.
 
-### Dataset License
-The dataset included in this repository is provided under the same license (CC BY 4.0) **temporarily**, pending confirmation from the original data source. 
-- Redistribution or use of the dataset must adhere to the terms of CC BY 4.0.
-- This license is subject to change once final permissions for the dataset are clarified.
+## Description
+
+This project contains Python code for both a **manual approach** and an **automated approach**. The goal of this project is to implement and demonstrate different methods of [Network Analysis On Mahabharata]. It includes two Jupyter notebooks that provide implementations of these approaches:
+
+1. **Python_Code_1_Manual_approach.ipynb**: This notebook implements the manual approach for [Representing Mahabharata as a network].
+2. **Python_Code_2_2_Automated__approach.ipynb**: This notebook implements the automated approach for [Creating Mahabharata network].
+
+## Files Under This License
+
+The code and data files in this project are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**, which allows you to copy, redistribute, remix, adapt, and build upon the material for any purpose, even commercially, under the following terms:
+
+### Files under the CC BY-SA 4.0 License:
+- **Character Interactions from MacCarron.xlsx**
+- **Python_Code_1_Manual_approach.ipynb**
+- **Python_Code_2_2_Automated__approach.ipynb**
+
+## License
+
+The content in this repository is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**. For full details, refer to the license text or visit the link below.
+
+### CC BY-SA 4.0 License Summary:
+- **You are free to**:
+  - Share — copy and redistribute the material in any medium, format, or platform.
+  - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+- **Under the following terms**:
+  - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+  - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For full details of the license, please visit: [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### Changes Made:
+1. Added the **CC BY-SA 4.0** summary to clarify the terms.
+2. Include the proper license URL for full details.
+3. Updated the files under the CC BY-SA 4.0 License to match your request.
+
 
 **Disclaimer**: Until confirmation is received, users are encouraged to contact [devendrapeddoju@gmail.com] before redistributing the dataset.
 
