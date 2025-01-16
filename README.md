@@ -1,5 +1,5 @@
 # Data_Science_Project
-Project Title: Network Analysis On Mahabharata
+Project Title: MATH AND MYTH: A NETWORK APPROACH TO MAHABHARATA
 
 Project Overview
 This project is based on Creating A network from text and Doing Social network Analysis on Mahabharata
