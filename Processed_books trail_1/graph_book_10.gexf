@@ -1,0 +1,2024 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-18">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="value" type="long" />
+      <attribute id="2" title="width" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Vyasa" label="Vyasa">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Narayana" label="Narayana">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Jaya" label="Jaya">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Sanjaya" label="Sanjaya">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="Kuru" label="Kuru">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Dhritarashtra" label="Dhritarashtra">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="Bhima" label="Bhima">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="Pandu" label="Pandu">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="Vidura" label="Vidura">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Kritavarma" label="Kritavarma">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="Kripa" label="Kripa">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="Drona" label="Drona">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </node>
+      <node id="Duryodhana" label="Duryodhana">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="Asta" label="Asta">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Kurus" label="Kurus">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Ashvatthama" label="Ashvatthama">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="Bharata" label="Bharata">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Vrikodara" label="Vrikodara">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Gandhari" label="Gandhari">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Dhrishtadyumna" label="Dhrishtadyumna">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="Rudra" label="Rudra">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="Karna" label="Karna">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="Bhishma" label="Bhishma">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="Shakra" label="Shakra">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="Vasudeva" label="Vasudeva">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Arjuna" label="Arjuna">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Indra" label="Indra">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Shantanu" label="Shantanu">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Bhurishrava" label="Bhurishrava">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Yuyudhana" label="Yuyudhana">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Bhoja" label="Bhoja">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Sharadvata" label="Sharadvata">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Janardana" label="Janardana">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Mahadeva" label="Mahadeva">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Uma" label="Uma">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="Kapardin" label="Kapardin">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="Hara" label="Hara">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="Ugra" label="Ugra">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="Daksha" label="Daksha">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="Kumara" label="Kumara">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="angadas" label="angadas">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Vyasa" target="Narayana" id="0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vyasa" target="Jaya" id="1">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vyasa" target="Sanjaya" id="2">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vyasa" target="Kuru" id="3">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Narayana" target="Jaya" id="4">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Narayana" target="Sanjaya" id="5">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Narayana" target="Kuru" id="6">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Narayana" target="Dhritarashtra" id="7">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Narayana" target="Bhima" id="8">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaya" target="Sanjaya" id="9">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaya" target="Kuru" id="10">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaya" target="Dhritarashtra" id="11">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaya" target="Bhima" id="12">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Kuru" id="13">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Dhritarashtra" id="14">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Bhima" id="15">
+        <attvalues>
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Pandu" id="16">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Vidura" id="17">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Kritavarma" id="18">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Kripa" id="19">
+        <attvalues>
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Drona" id="20">
+        <attvalues>
+          <attvalue for="1" value="46" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Duryodhana" id="21">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Asta" id="22">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Ashvatthama" id="23">
+        <attvalues>
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Bhoja" id="24">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Sharadvata" id="25">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Dhrishtadyumna" id="26">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Ugra" id="27">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Rudra" id="28">
+        <attvalues>
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Shakra" id="29">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Daksha" id="30">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Hara" id="31">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Uma" id="32">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="Kumara" id="33">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sanjaya" target="angadas" id="34">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kuru" target="Dhritarashtra" id="35">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kuru" target="Bhima" id="36">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Bhima" id="37">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Sanjaya" id="38">
+        <attvalues>
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Pandu" id="39">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Vidura" id="40">
+        <attvalues>
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Gandhari" id="41">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Kripa" id="42">
+        <attvalues>
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Ashvatthama" id="43">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Drona" id="44">
+        <attvalues>
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhritarashtra" target="Kritavarma" id="45">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Sanjaya" id="46">
+        <attvalues>
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Pandu" id="47">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Vidura" id="48">
+        <attvalues>
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Kritavarma" id="49">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Kripa" id="50">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Drona" id="51">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Duryodhana" id="52">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Vrikodara" id="53">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Bhoja" id="54">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhima" target="Sharadvata" id="55">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Sanjaya" id="56">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Bhima" id="57">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Vidura" id="58">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Kritavarma" id="59">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Kripa" id="60">
+        <attvalues>
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Drona" id="61">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Duryodhana" id="62">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Karna" id="63">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Bhishma" id="64">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pandu" target="Dhrishtadyumna" id="65">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vidura" target="Kritavarma" id="66">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vidura" target="Kripa" id="67">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vidura" target="Drona" id="68">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vidura" target="Duryodhana" id="69">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vidura" target="Sanjaya" id="70">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vidura" target="Ashvatthama" id="71">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Kripa" id="72">
+        <attvalues>
+          <attvalue for="1" value="53" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Drona" id="73">
+        <attvalues>
+          <attvalue for="1" value="77" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Duryodhana" id="74">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Sanjaya" id="75">
+        <attvalues>
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Asta" id="76">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Kurus" id="77">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Ashvatthama" id="78">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Shakra" id="79">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kritavarma" target="Dhritarashtra" id="80">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Drona" id="81">
+        <attvalues>
+          <attvalue for="1" value="75" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Duryodhana" id="82">
+        <attvalues>
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Sanjaya" id="83">
+        <attvalues>
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Asta" id="84">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Kurus" id="85">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Kritavarma" id="86">
+        <attvalues>
+          <attvalue for="1" value="65" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Ashvatthama" id="87">
+        <attvalues>
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Bhima" id="88">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Vrikodara" id="89">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Shakra" id="90">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kripa" target="Dhritarashtra" id="91">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Duryodhana" id="92">
+        <attvalues>
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Sanjaya" id="93">
+        <attvalues>
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Asta" id="94">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Kurus" id="95">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Kripa" id="96">
+        <attvalues>
+          <attvalue for="1" value="85" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Kritavarma" id="97">
+        <attvalues>
+          <attvalue for="1" value="39" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Ashvatthama" id="98">
+        <attvalues>
+          <attvalue for="1" value="40" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Bharata" id="99">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Bhima" id="100">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Vrikodara" id="101">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Shakra" id="102">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Dhrishtadyumna" id="103">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Bhoja" id="104">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Sharadvata" id="105">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Dhritarashtra" id="106">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Indra" id="107">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Janardana" id="108">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Mahadeva" id="109">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Uma" id="110">
+        <attvalues>
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Kapardin" id="111">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Rudra" id="112">
+        <attvalues>
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Hara" id="113">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Ugra" id="114">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Daksha" id="115">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="Kumara" id="116">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Drona" target="angadas" id="117">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Sanjaya" id="118">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Asta" id="119">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Bhima" id="120">
+        <attvalues>
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Vrikodara" id="121">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Pandu" id="122">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Karna" id="123">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Bhishma" id="124">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Dhrishtadyumna" id="125">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Kripa" id="126">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Kritavarma" id="127">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duryodhana" target="Drona" id="128">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Asta" target="Kritavarma" id="129">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Asta" target="Kripa" id="130">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Asta" target="Drona" id="131">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Asta" target="Kurus" id="132">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kurus" target="Kripa" id="133">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kurus" target="Kritavarma" id="134">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kurus" target="Drona" id="135">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Bharata" id="136">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Drona" id="137">
+        <attvalues>
+          <attvalue for="1" value="39" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Duryodhana" id="138">
+        <attvalues>
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Bhima" id="139">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Vrikodara" id="140">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Pandu" id="141">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Dhrishtadyumna" id="142">
+        <attvalues>
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Karna" id="143">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Shantanu" id="144">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Bhishma" id="145">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Bhurishrava" id="146">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Yuyudhana" id="147">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Kripa" id="148">
+        <attvalues>
+          <attvalue for="1" value="36" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Kritavarma" id="149">
+        <attvalues>
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Dhritarashtra" id="150">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Sanjaya" id="151">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Indra" id="152">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ashvatthama" target="Janardana" id="153">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bharata" target="Drona" id="154">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vrikodara" target="Pandu" id="155">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gandhari" target="Vidura" id="156">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gandhari" target="Sanjaya" id="157">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gandhari" target="Kripa" id="158">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gandhari" target="Ashvatthama" id="159">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Rudra" id="160">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Pandu" id="161">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Duryodhana" id="162">
+        <attvalues>
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Karna" id="163">
+        <attvalues>
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Bhishma" id="164">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Kripa" id="165">
+        <attvalues>
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Kritavarma" id="166">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Vasudeva" id="167">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Arjuna" id="168">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Indra" id="169">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Shantanu" id="170">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Bhurishrava" id="171">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Yuyudhana" id="172">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Bhima" id="173">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Ashvatthama" id="174">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Drona" id="175">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dhrishtadyumna" target="Dhritarashtra" id="176">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Pandu" id="177">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Duryodhana" id="178">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Karna" id="179">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Bhishma" id="180">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Dhrishtadyumna" id="181">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Kripa" id="182">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Kritavarma" id="183">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Hara" id="184">
+        <attvalues>
+          <attvalue for="1" value="29" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Sanjaya" id="185">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Drona" id="186">
+        <attvalues>
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Ugra" id="187">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Shakra" id="188">
+        <attvalues>
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Daksha" id="189">
+        <attvalues>
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Uma" id="190">
+        <attvalues>
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="Kumara" id="191">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rudra" target="angadas" id="192">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Bhishma" id="193">
+        <attvalues>
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Dhrishtadyumna" id="194">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Kripa" id="195">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Kritavarma" id="196">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Shantanu" id="197">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Bhurishrava" id="198">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Yuyudhana" id="199">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Duryodhana" id="200">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Karna" target="Bhima" id="201">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhishma" target="Dhrishtadyumna" id="202">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhishma" target="Kripa" id="203">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhishma" target="Kritavarma" id="204">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhishma" target="Bhurishrava" id="205">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhishma" target="Yuyudhana" id="206">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhishma" target="Duryodhana" id="207">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhishma" target="Bhima" id="208">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="Kritavarma" id="209">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="Drona" id="210">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="Daksha" id="211">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="Hara" id="212">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="Uma" id="213">
+        <attvalues>
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="Rudra" id="214">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="Kumara" id="215">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shakra" target="angadas" id="216">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vasudeva" target="Arjuna" id="217">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vasudeva" target="Indra" id="218">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vasudeva" target="Kripa" id="219">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Arjuna" target="Indra" id="220">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Arjuna" target="Kripa" id="221">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Indra" target="Kripa" id="222">
+        <attvalues>
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Indra" target="Ashvatthama" id="223">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Indra" target="Janardana" id="224">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Indra" target="Drona" id="225">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shantanu" target="Bhishma" id="226">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shantanu" target="Bhurishrava" id="227">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shantanu" target="Yuyudhana" id="228">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shantanu" target="Duryodhana" id="229">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Shantanu" target="Bhima" id="230">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhurishrava" target="Yuyudhana" id="231">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhurishrava" target="Duryodhana" id="232">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhurishrava" target="Bhima" id="233">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Yuyudhana" target="Duryodhana" id="234">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Yuyudhana" target="Bhima" id="235">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhoja" target="Sharadvata" id="236">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhoja" target="Ashvatthama" id="237">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bhoja" target="Dhrishtadyumna" id="238">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sharadvata" target="Ashvatthama" id="239">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sharadvata" target="Dhrishtadyumna" id="240">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Janardana" target="Drona" id="241">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Janardana" target="Kripa" id="242">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Uma" id="243">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Kapardin" id="244">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Rudra" id="245">
+        <attvalues>
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Hara" id="246">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Sanjaya" id="247">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Drona" id="248">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Ugra" id="249">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Shakra" id="250">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mahadeva" target="Daksha" id="251">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Kapardin" id="252">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Rudra" id="253">
+        <attvalues>
+          <attvalue for="1" value="36" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Hara" id="254">
+        <attvalues>
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Sanjaya" id="255">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Drona" id="256">
+        <attvalues>
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Ugra" id="257">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Shakra" id="258">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Daksha" id="259">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Kumara" id="260">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="angadas" id="261">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Uma" target="Bharata" id="262">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Rudra" id="263">
+        <attvalues>
+          <attvalue for="1" value="25" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Hara" id="264">
+        <attvalues>
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Sanjaya" id="265">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Drona" id="266">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Ugra" id="267">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Shakra" id="268">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Daksha" id="269">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Uma" id="270">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kapardin" target="Kumara" id="271">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Sanjaya" id="272">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Drona" id="273">
+        <attvalues>
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Ugra" id="274">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Rudra" id="275">
+        <attvalues>
+          <attvalue for="1" value="25" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Shakra" id="276">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Daksha" id="277">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Uma" id="278">
+        <attvalues>
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="Kumara" id="279">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hara" target="angadas" id="280">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="Rudra" id="281">
+        <attvalues>
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="Shakra" id="282">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="Daksha" id="283">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="Hara" id="284">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="Uma" id="285">
+        <attvalues>
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="Kumara" id="286">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="Drona" id="287">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ugra" target="angadas" id="288">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daksha" target="Hara" id="289">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daksha" target="Uma" id="290">
+        <attvalues>
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daksha" target="Rudra" id="291">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daksha" target="Kumara" id="292">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daksha" target="Drona" id="293">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daksha" target="angadas" id="294">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kumara" target="Uma" id="295">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kumara" target="Drona" id="296">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kumara" target="angadas" id="297">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Kumara" target="Bharata" id="298">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="angadas" target="Bharata" id="299">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
