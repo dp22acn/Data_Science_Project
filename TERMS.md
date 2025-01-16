@@ -10,7 +10,7 @@ This repository is temporarily licensed under the **Creative Commons Attribution
 
 1. **Code Usage**:
    - Users may freely use, distribute, and modify the code in this repository for personal, academic, or non-commercial purposes.
-   - Proper attribution must be given to [Your Name/Organization] and this repository in any derivative works or publications.
+   - Proper attribution must be given to [Devendra Sai Sundar PEddoju /University_Of Hertfordshire] and this repository in any derivative works or publications.
 
 2. **Dataset Usage**:
    - The dataset included in this repository (located in the `data/` directory) is strictly licensed under the **CC BY-NC-ND 4.0** license.
