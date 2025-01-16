@@ -187,7 +187,7 @@ This project contains Python code for both a **manual approach** and an **automa
 The code and data files in this project are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**, which allows you to copy, redistribute, remix, adapt, and build upon the material for any purpose, even commercially, under the following terms:
 
 ### Files under the CC BY-SA 4.0 License:
-- **Character Interactions from MacCarron.xlsx**
+- **Characters_extraction_For_Automated_approach.ipynb**
 - **Python_Code_1_Manual_approach.ipynb**
 - **Python_Code_2_2_Automated__approach.ipynb**
 
