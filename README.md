@@ -122,6 +122,20 @@ By comparing mythological networks to real-world social networks, it becomes evi
 
 ---
 
+---
+## References and API Links
+
+- **NetworkX Documentation**:  
+  [NetworkX API Documentation](https://networkx.github.io/documentation/stable/)  
+  You can install **NetworkX** using pip:
+  ```bash
+  pip install networkx
+  
+**Ghepi Documentation**:
+  [Ghepi Documentation](https://javadoc.io/doc/org.gephi/gephi/latest/index.html)
+---
+
+
 ## License
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
