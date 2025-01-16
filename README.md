@@ -175,5 +175,12 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-N
 - You may view the dataset for personal and academic purposes.
 - Redistribution, modification, or commercial use is not permitted.
 
+### Dataset License
+The dataset included in this repository is provided under the same license (CC BY 4.0) **temporarily**, pending confirmation from the original data source. 
+- Redistribution or use of the dataset must adhere to the terms of CC BY 4.0.
+- This license is subject to change once final permissions for the dataset are clarified.
+
+**Disclaimer**: Until confirmation is received, users are encouraged to contact [devendrapeddoju@gmail.com] before redistributing the dataset.
+
 For permissions beyond the scope of this license, please contact [devendrapeddoju@gmail.com].
 
